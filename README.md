@@ -4,4 +4,4 @@
 
 ---
 
-![video](https://github.com/jjw0071/To-do_app/assets/87056507/764b5ef6-9d42-424e-932e-0540f2bf77d2)
+![video](https://github.com/jjw0071/To-do_app/assets/87056507/d9807ed2-3f9a-47d8-8301-7ef7a02ce90b)
